@@ -1,3 +1,5 @@
+# :warning: This repository is no longer maintained :warning:
+
 [![License](https://img.shields.io/github/license/dolbyio-samples/blog-android-kotlin-audio-call)](LICENSE)
 
 ![Blog Picture](https://dolby.io/wp-content/uploads/2022/03/How-to-Create-Your-First-Audio-Conference-Call-Using-the-Communications-SDK-in-Android-in-Kotlin.jpg)
